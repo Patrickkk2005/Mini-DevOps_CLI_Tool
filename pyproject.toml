@@ -3,7 +3,7 @@ name = "mini-devops-cli"
 version = "0.1.0"
 description = "A DevOps CLI tool for system monitoring, Docker management, and more"
 requires-python = ">=3.12"
-dependencies = ["click>=8.1",]
+dependencies = ["click>=8.1", "psutil>=5.9"]
 
 [project.scripts]
 devops = "mini_devops_cli.cli:main"
