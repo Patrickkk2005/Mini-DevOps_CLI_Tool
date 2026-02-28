@@ -6,8 +6,8 @@ log reading, file backups, and task automation.
 **INSTALLATION**
 
 (bash) <br>
-git clone https://github.com/Patrickkk2005/Mini-DevOps_CLI_Tool
-cd mini-devops-cli
+git clone https://github.com/Patrickkk2005/Mini-DevOps_CLI_Tool <br>
+cd mini-devops-cli <br>
 pip install .
 
 **FEATURES**
